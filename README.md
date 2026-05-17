@@ -20,3 +20,4 @@ A computer vision-based infrastructure inspection system for detecting structura
 - Automated reports
 - 
   <img width="1920" height="1200" alt="Screenshot 2026-04-22 051026" src="https://github.com/user-attachments/assets/44c6522d-adcc-4689-a05f-915e4134f260" />
+<img width="1920" height="1200" alt="Screenshot 2026-05-15 102055" src="https://github.com/user-attachments/assets/2b17ae7f-1105-4290-b2bf-7bcd733fa87f" />
